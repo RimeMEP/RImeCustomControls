@@ -1,2 +1,2 @@
 # RImeCustomControls
-Collection of RIEM standard XAML custom controls
+Collection of RIME standard XAML custom controls
